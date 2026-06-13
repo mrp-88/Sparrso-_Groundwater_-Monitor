@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 mrp-88
+Copyright (c) 2026 Mashiyat Raunaq Preetom
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Note: The Bangladesh Water Development Board (BWDB) groundwater data included in
+the /data directory remains the property of BWDB and is provided for academic
+validation purposes. Please credit BWDB when reusing that dataset.
